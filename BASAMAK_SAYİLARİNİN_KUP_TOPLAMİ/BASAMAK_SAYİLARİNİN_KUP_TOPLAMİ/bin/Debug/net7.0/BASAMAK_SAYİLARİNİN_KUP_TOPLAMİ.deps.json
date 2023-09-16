@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ/1.0.0": {
+        "runtime": {
+          "BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

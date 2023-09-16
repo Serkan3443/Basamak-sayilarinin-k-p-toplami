@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\bin\Debug\net7.0\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ.exe
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\bin\Debug\net7.0\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ.deps.json
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\bin\Debug\net7.0\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\bin\Debug\net7.0\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ.dll
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\bin\Debug\net7.0\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ.pdb
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\obj\Debug\net7.0\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\obj\Debug\net7.0\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\obj\Debug\net7.0\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\obj\Debug\net7.0\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\obj\Debug\net7.0\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ.dll
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\obj\Debug\net7.0\refint\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ.dll
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\obj\Debug\net7.0\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ.pdb
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\obj\Debug\net7.0\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ\obj\Debug\net7.0\ref\BASAMAK_SAYİLARİNİN_KUP_TOPLAMİ.dll
